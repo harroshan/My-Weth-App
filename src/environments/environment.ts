@@ -4,16 +4,15 @@
 
 export const environment = {
   production: true,
-  // appID: '1:1092792670502:web:87972ee630a273ed7609e7',
   config: {
-    apiKey: "AIzaSyDCkpRI7YsHovXkv1ArBXryy4nA85PC3y4",
-    authDomain: "wethapp-73efb.firebaseapp.com",
-    databaseURL: "https://wethapp-73efb.firebaseio.com",
-    projectId: "wethapp-73efb",
-    storageBucket: "wethapp-73efb.appspot.com",
-    messagingSenderId: "1092792670502",
-    appId: "1:1092792670502:web:87972ee630a273ed7609e7",
-    measurementId: "G-7PS5FQ30V0"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
   }
 };
 
